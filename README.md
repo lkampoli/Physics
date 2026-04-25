@@ -2,7 +2,7 @@
 
 ![Grand Map of Physics](physics.png)
 
-*A comprehensive visualization of physics sub-disciplines and their relationships – from classical foundations to modern frontiers.*
+*A visualization of physics sub-disciplines and their relationships – from classical foundations to modern frontiers.*
 
 ## Overview
 
